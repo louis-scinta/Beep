@@ -1,0 +1,14 @@
+{
+  "name": "beep",
+  "version": "1.0.0",
+  "description": "Sets timers at random intervals",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@fluentui/react": "^8.115.6"
+  }
+}
